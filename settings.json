@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dmitriizdruk.aternos.me",
+    "ip": "MINER432_SMP.aternos.me",
     "port": 48438,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
